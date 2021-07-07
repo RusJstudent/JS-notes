@@ -1,1 +1,1 @@
-# JS-notes
+# https://rusjstudent.github.io/JS-notes/
